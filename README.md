@@ -20,6 +20,7 @@ The assignment focuses on the application of advanced statistical methods to pre
 ### File Information:
 
 - 'slm_assignment.ipynb': This file is the jupyter notebook used for data analysis, regression analysis and classification analysis, for the purpose of this study. 
+- '437451 Statistical Analysis for Enhanced Aircraft Engine Upkeep.pdf': this is the assignment report with detailed data analysis, regression and classification analysis and discussions on results.
 - 'experiments_tracker_classification.csv': This is the log of the classification experiments run with their parameter information and performance information. 
 - 'experiments_tracker_regression.csv': This is the log of the regression experiments run with their parameter information and performance information. 
 - 'data/train_selected.csv': the training dataset that has been provided. 
@@ -30,4 +31,4 @@ The assignment focuses on the application of advanced statistical methods to pre
 
 ### Details
 
-Detailed analysis and discussion of the results can be found in the report. 
+Detailed analysis and discussion of the results can be found in the report.

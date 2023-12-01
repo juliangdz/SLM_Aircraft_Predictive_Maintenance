@@ -6,11 +6,11 @@ This Repo contains code used for the assignment report for the Statistical Learn
 
 ## Submission Under:
 
-    Student: Julian Gerald Dcruz \n
-    ID: 437451 \n
-    Module: Statistical Learning Methods \n
-    Course: Msc. Applied Artificial Intelligence  \n
-    University: Cranfield University \n
+    Student: Julian Gerald Dcruz 
+    ID: 437451
+    Module: Statistical Learning Methods
+    Course: Msc. Applied Artificial Intelligence
+    University: Cranfield University
 
 ### Objective
 
